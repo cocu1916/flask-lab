@@ -1,0 +1,5 @@
+*.binetflow
+*.ipynb_checkpoints
+venv
+*.csv
+*.zip
